@@ -1,0 +1,26 @@
+{
+  "nav": {
+    "personal": "Personal",
+    "cards": "Cards",
+    "payments": "Payments",
+    "gamblingWallet": "Gambling Wallet",
+    "moneyTransfer": "Money Transfer",
+    "business": "Business",
+    "deals": "Deals",
+    "partners": "Partners",
+    "company": "Company",
+    "aboutUs": "About Us",
+    "workingAtEmoney": "Working at eMoney",
+    "newsRoom": "News Room",
+    "latestNews": "Latest News",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "ourTeam": "Our Team",
+    "ourCulture": "Our Culture",
+    "media": "Media",
+    "contactTerms": "Contact & Terms",
+    "amlPolicy": "AML Policy",
+    "feesAndLimits": "Fees & Limits",
+    "legal": "Legal"
+  }
+}

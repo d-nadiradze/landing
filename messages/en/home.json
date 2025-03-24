@@ -1,0 +1,45 @@
+{
+  "Home": {
+    "heading": "Freedom for all your money",
+    "subHeader": "Sign Up to Seamlessly Manage All Your Assets in One Place, Simply and Freely.",
+    "headingButtonText": "Get Started",
+    "ProductFeatures": {
+      "title": "All Freedom to Spend",
+      "description": "Spend Anywhere, Any Way, on Anything, with Any Financial Asset"
+    },
+    "Payments": {
+      "title": "Simplify All Your Payments",
+      "description": "Pay Here Instantly - No Registration Needed, In- App or on the Website, It's Always Easy.",
+      "exploreServices": "Explore All Services"
+    },
+    "AllMoneyCard": {
+      "title": "All money card",
+      "description": "For all money purposes",
+      "chooseCard": "Choose Your Card",
+      "secondaryDescription": "Revolutionary card that allows you spend digital and traditional money. Browse our benefits to choose the subscription that fits your spending needs and digital card design that expresses you"
+    },
+    "AppAdvertisement": {
+      "title": "One app for all your money management needs",
+      "description": "A Simple and Easy App for Managing, Spending, and Saving all Your Money",
+      "downloadApp": "Download App",
+      "DownloadApp": {
+        "title": "Scan to Explore New Financial Possibilities",
+        "description": "Ready to embark on a journey towards endless possibilities? Scan to download Emoney and discover a revolutionary approach to managing your finances."
+      }
+    },
+    "EasySend": {
+      "title": "Sending ALL Money Just Got Easy",
+      "description": "Send all kinds of money to Emoney users with few clicks, anywhere around the globe; we guarantee they will get it in seconds",
+      "button": "Try now"
+    },
+    "AnywhereAnytime": {
+      "title": "Anywhere, anytime. effortless methods for moving money",
+      "bankTransfer": "Bank Transfer",
+      "bankTransferDesc": "Send money to any local bank account, and it will clear within minutes. Say goodbye to waiting for funds to transfer between different banks.",
+      "linkedCards": "Linked Cards",
+      "linkedCardsDesc": "Send or receive money using not only Emoney balance, but other bank cards with our easy and friendly money transfer services.",
+      "phoneNumber": "Phone Number",
+      "phoneNumberDesc": "Send and receive money using phone numbers at lightning speed. It's not only fast and dependable but also completely free of charge."
+    }
+  }
+}

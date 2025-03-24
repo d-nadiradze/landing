@@ -1,0 +1,1 @@
+export {CultureSlider} from './culture-slider'

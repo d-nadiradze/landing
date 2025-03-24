@@ -1,0 +1,26 @@
+{
+  "nav": {
+    "personal": "Персональный",
+    "cards": "Карты",
+    "payments": "Платежи",
+    "gamblingWallet": "Азартный кошелек",
+    "moneyTransfer": "Перевод денег",
+    "business": "Бизнес",
+    "deals": "Сделки",
+    "partners": "Партнеры",
+    "company": "Компания",
+    "aboutUs": "О нас",
+    "workingAtEmoney": "Работа в eMoney",
+    "newsRoom": "Новости",
+    "latestNews": "Последние новости",
+    "signIn": "Войти",
+    "signUp": "Регистрация",
+    "ourTeam": "Наша команда",
+    "ourCulture": "Наша культура",
+    "media": "Медиа",
+    "contactTerms": "Контакты и условия",
+    "amlPolicy": "AML Политика",
+    "feesAndLimits": "Сборы и лимиты",
+    "legal": "Юридический"
+  }
+}

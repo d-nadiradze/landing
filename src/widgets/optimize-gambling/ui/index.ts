@@ -1,0 +1,1 @@
+export {OptimizeGamblingWidget} from './optimize-gambling-widget'

@@ -1,0 +1,1 @@
+export * as servicePaymentFormModel from "./model"

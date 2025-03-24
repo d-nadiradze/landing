@@ -1,0 +1,1 @@
+export {GamblingAdvert} from './gambling-advert'

@@ -1,0 +1,38 @@
+{
+  "Gambling": {
+    "Entertain": {
+      "title": "Entertain to win",
+      "description": "With the Emoney gambling wallet, you're in charge of your funds. Send and receive money to any gambling site in seconds, all while maintaining your private haven to manage your finances conveniently in one place.",
+      "createGambling": "Create Gambling Wallet"
+    },
+    "OptimizeGambling": {
+      "title": "Optimize Your Gambling Experience",
+      "description": "Seamlessly manage funds across devices with our cross-platform gambling wallet"
+    },
+    "Advert": {
+      "title": "Play the game without the hassle",
+      "description": "With just a few taps, you can easily drop some cash into any gambling account and jump into the action – no need to deal with complicated bank stuff or type in your card details every single time. Let's keep it simple and fun!",
+      "tryNow": "Try Now"
+    },
+    "Bundle": {
+      "title": "Choose the plan that fits you",
+      "description": "Discover transparent pricing options, easily compare plans, and select the one that best suits your needs. No hidden fees, just straightforward and honest pricing",
+      "standard": "Standard",
+      "perMonth": "Per Month",
+      "premium": "Premium",
+      "smart": "Smart",
+      "mostPopular": "Most Popular",
+      "select": "Select",
+      "Table": {
+        "physical": "Physical Card",
+        "contactLess": "Contactless Payments",
+        "3d": "3D Secure Payments",
+        "cryptoSpending's": "Crypto Spendings",
+        "bonusCards": "Bonus Cards",
+        "atmWithdrawal": "ATM Withdrawal Limits (24 Hours)",
+        "purchaseLimits": "Purchase Limits (24 Hours)",
+        "paymentFee": "Utility Payments Fee"
+      }
+    }
+  }
+}

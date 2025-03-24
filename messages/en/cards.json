@@ -1,0 +1,48 @@
+{
+  "Cards": {
+    "title": "One Card for all your money",
+    "description": "Deck out with cards, physical or digital, splurge old-school or go digital, and jazz up their look – it's your money, your style!",
+    "subscriptions": "Check out Subscriptions",
+    "Advertisement": {
+      "title": "It is a BIG thing",
+      "description": "This card does it all! Spend, save, and manage your money in one app. It's like the card of the future, and you're the boss of your spending!"
+    },
+    "RevolutionizeSpending": {
+      "title": "Revolutionize Spending Habits with Crypto Spend",
+      "description": "Seamlessly utilize over 15 cryptocurrencies for transactions, whether it's at ATMs or through contactless payments, when fiat currencies aren't available in your account. Embrace the future of spending where you dictate the rules.",
+      "downloadApp": "Download App"
+    },
+    "ImmediateControl": {
+      "title": "Immediate control",
+      "description": "Link your card to apple or google pay in minutes and you are all set to start paying for the things you love",
+      "tryNow": "Try Now"
+    },
+    "SecurityFeatures": {
+      "title": "360° Security Features",
+      "freezeUnfreeze": "Freeze and unfreeze your card with one click",
+      "restrictGambling": "Restrict payments to gambling web sites",
+      "onlineShopping": "Get additional card for online shopping"
+    },
+    "Bundle": {
+      "title": "Choose the plan that fits you",
+      "description": "Discover transparent pricing options, easily compare plans, and select the one that best suits your needs. No hidden fees, just straightforward and honest pricing",
+      "Table": {
+        "physical": "Physical Card",
+        "contactLess": "Contactless Payments",
+        "3d": "3D Secure Payments",
+        "cryptoSpending's": "Crypto Spendings",
+        "bonusCards": "Bonus Cards",
+        "atmWithdrawal": "ATM Withdrawal Limits (24 Hours)",
+        "purchaseLimits": "Purchase Limits (24 Hours)",
+        "paymentFee": "Utility Payments Fee"
+      },
+      "standard": "Standard",
+      "perMonth": "Per Month",
+      "select": "Select",
+      "mostPopular": "Most Popular",
+      "smart": "Smart",
+      "premium": "Premium"
+    }
+  }
+
+}

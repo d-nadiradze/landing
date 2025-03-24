@@ -1,0 +1,31 @@
+{
+  "Service": {
+    "back": "Go back",
+    "somethingWentWrong": "Something went wrong",
+    "checkDetails": "Check Details",
+    "title": "Services",
+    "seeAll": "See all",
+    "otpCode": "Enter 6-digit code",
+    "enterOtpCode": "Please Enter the code we sent on Phone:",
+    "resendIn": "Resend in",
+    "didntReceiveCode": "Did not receive the code",
+    "resend": "Resend",
+    "password": "Password",
+    "finish": "Finish",
+    "dontHaveBalance": "You don't have enough balance",
+    "selectOption": "Select Option",
+    "amount": "Amount",
+    "paymentFrom": "Payment From",
+    "totalAmount": "Total Amount",
+    "commission": "Commission",
+    "refill": "Refill",
+    "choose": "Choose",
+    "viewDetails": "View more details in transaction history",
+    "transferCompleted": "Transfer Completed",
+    "transferFailed": "Transfer Failed",
+    "inputPlaceholder": "What are you looking for?",
+    "continue": "Continue",
+    "authorizeService": "Authorization is required to use the service.",
+    "done": "Done"
+  }
+}

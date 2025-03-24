@@ -1,0 +1,1 @@
+export {ComingSoonWidget} from './coming-soon-widget'

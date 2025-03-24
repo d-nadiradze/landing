@@ -1,0 +1,1 @@
+export * as serviceModel from "./model"

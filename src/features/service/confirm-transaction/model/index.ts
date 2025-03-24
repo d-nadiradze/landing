@@ -1,0 +1,1 @@
+export * as confirmTransactionModel from "./model"

@@ -1,0 +1,39 @@
+{
+  "AboutUs": {
+    "title": "Stories Behind building Emoney",
+    "description": "We're a team with a mission to revolutionize the financial industry, and our focus is squarely on the end result, not just the process. We have a clear destination in mind, and that destination is more important to us than the comfort we may create along the way.",
+    "OurMission": {
+      "title": "Our Mission",
+      "description": "We understand that the world is changing quickly. At Emoney, our mission is to make managing your finances easy and convenient. We bring together the best of both digital and traditional worlds, so you can effortlessly handle all your financial needs in one place.",
+      "Accomplishment": {
+        "personalUser": "Personal User",
+        "personalUserValue": "2+ Million",
+        "currencies": "Digital and Fiat Currencies",
+        "transaction": "Transaction Per Year",
+        "transactionValue": "20+ Million",
+        "experience": "Years of Experience"
+      }
+    },
+    "History": {
+      "title": "Our History",
+      "description": "We've come a long way, and our journey is far from over. our progress knows no bounds.",
+      "newWeb": "New web platform and application that is recreated with the mission to control all wealth simply from one place. Introduction of revolutionary debit cards that allow users to spend digital and physical money simultaneously.",
+      "gamblingWallet": "An updated website has been created and a gambling wallet has been launched, which combines the leading online bookmakers and casinos in Georgia, where users can transfer and withdraw money quickly and easily.",
+      "leadingServiceProvider": "Through its sophisticated integration into telecommunications and banking infrastructure, EMONEY has become a leading service provider for Georgian non-bank lenders, both in terms of lending and repayment.",
+      "usageIdCard": "Since it became possible to use an ID card (EID card) to use financial services and cashless withdrawals from ATMs, the service is used by more than 500,000 individuals and more than 30 companies",
+      "taxServiceProvider": "Emoney is the first company recognized by the National Bank of Georgia as a tax service provider.",
+      "founded": "Founded with the mission - for the first time in Georgia, to connect people and global e-commerce platforms."
+    },
+    "Culture": {
+      "title": "Our Culture",
+      "description": "Our culture stands as the foremost foundation for success. It wholeheartedly mirrors the brand's beliefs, distinctivene ss, and developmental vision.",
+      "brilliance": "Brilliance",
+      "brillianceText": "We hold the belief that brilliance is born from the fusion of inspiration, determination, and knowledge. We continuously ensure that our teams possess the perfect blend of these three elements and work harmoniously to achieve remarkable feats, always pushing forward.",
+      "curiosity": "Curiosity",
+      "curiosityText": "We hold the belief that brilliance is born from the fusion of inspiration, determination, and knowledge. We continuously ensure that our teams possess the perfect blend of these three elements and work harmoniously to achieve remarkable feats, always pushing forward.",
+      "destination": "The Destination",
+      "destinationText": "We hold the belief that brilliance is born from the fusion of inspiration, determination, and knowledge. We continuously ensure that our teams possess the perfect blend of these three elements and work harmoniously to achieve remarkable feats, always pushing forward.",
+      "hoverMoreInfo": "Hover over for more information"
+    }
+  }
+}

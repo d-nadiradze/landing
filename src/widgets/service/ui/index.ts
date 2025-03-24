@@ -1,0 +1,1 @@
+export {ServiceHeading} from "./service-heading"

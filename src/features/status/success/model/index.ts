@@ -1,0 +1,1 @@
+export * as successModel from './store'

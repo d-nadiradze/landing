@@ -1,0 +1,29 @@
+{
+  "Service": {
+    "back": "Назад",
+    "somethingWentWrong": "Что-то пошло не так",
+    "checkDetails": "Проверить детали",
+    "title": "Сервисы",
+    "seeAll": "Смотреть все",
+    "otpCode": "Введите 6-значный код",
+    "enterOtpCode": "Введите код, который мы отправили на телефон:",
+    "resendIn": "Отправить повторно через",
+    "didntReceiveCode": "Не получили код",
+    "resend": "Отправить повторно",
+    "password": "Пароль",
+    "finish": "Завершить",
+    "dontHaveBalance": "У вас недостаточно средств",
+    "selectOption": "Выберите опцию",
+    "amount": "Сумма",
+    "paymentFrom": "Оплата от",
+    "totalAmount": "Общая сумма",
+    "commission": "Комиссия",
+    "refill": "Пополнить",
+    "choose": "Выбрать",
+    "viewDetails": "Посмотреть подробности в истории транзакций",
+    "transferCompleted": "Перевод завершён",
+    "transferFailed": "Перевод не удался",
+    "inputPlaceholder": "Что вы ищете?",
+    "continue": "Продолжить"
+  }
+}

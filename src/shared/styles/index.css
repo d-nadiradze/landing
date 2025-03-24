@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.helvetica {
+    font-family: "Helvetica", sans-serif !important;
+}
+
+.no-scroll-bar::-webkit-scrollbar {
+    display: none;
+}
+
+.no-scroll-bar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+/* For Chrome, Safari, and Opera */
+::-webkit-scrollbar {
+    width: 8px; /* Width of the scrollbar */
+}
+
+::-webkit-scrollbar-track {
+    background-color: #f1f1f1; /* Color of the scrollbar track */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #888; /* Color of the scrollbar thumb */
+    border-radius: 6px; /* Rounded corners of the scrollbar thumb */
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #555; /* Color of the scrollbar thumb on hover */
+}
+
+.custom-landing-scroll::-webkit-scrollbar {
+    width: 2px; /* Width of the scrollbar */
+}
+
+.custom-landing-scroll::-webkit-scrollbar-track {
+    background-color: #f4f7ff; /* Color of the scrollbar track */
+}
+
+.custom-landing-scroll::-webkit-scrollbar-thumb {
+    background-color: var(--main); /* Color of the scrollbar thumb */
+    border-radius: 12px; /* Rounded corners of the scrollbar thumb */
+}
+
+.custom-landing-scroll::-webkit-scrollbar-thumb:hover {
+    background-color: #281bc2; /* Color of the scrollbar thumb on hover */
+}
+
+.service-group-scrollbar {
+    scrollbar-width: none; /* For Firefox */
+    -ms-overflow-style: none; /* For Internet Explorer and Edge */
+}
+
+.service-group-scrollbar::-webkit-scrollbar {
+    display: none; /* For Chrome, Safari, and Opera */
+}
+
+/* Custom Scrollbar with Border and Color */
+.service-scroll {
+    scrollbar-width: thin; /* For Firefox */
+    scrollbar-color: #453BF5 transparent; /* For Firefox */
+}
+
+.service-scroll::-webkit-scrollbar {
+    width: 8px; /* Width of the scrollbar */
+}
+
+.service-scroll::-webkit-scrollbar-track {
+    background: transparent; /* Background of the scrollbar track */
+}
+
+.service-scroll::-webkit-scrollbar-thumb {
+    background-color: #453BF5; /* Scrollbar color */
+    border-radius: 10px; /* Rounded scrollbar */
+    border: 2px solid #453BF5; /* Border around the scrollbar */
+}
+
+.service-scroll::-webkit-scrollbar-thumb:hover {
+    background-color: #453BF5; /* Color when hovering over the scrollbar */
+}
+
+.service-scroll::before {
+    content: "";
+    position: absolute;
+    bottom: 30px;
+    left: 25%;
+    right: 64px;
+    height: 24px;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, #FFFFFF 20100%);
+    pointer-events: none; /* Allows clicks to pass through the pseudo-element */
+    backdrop-filter: blur(1px); /* Adjust the blur strength as needed */
+}
+
+@media screen and (max-width: 768px) {
+    .service-scroll::before {
+        content: "";
+        position: absolute;
+        bottom: 8px !important;
+        left: 24px !important;
+        right: 24px !important;
+        height: 20px !important;
+        background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, #FFFFFF 20100%);
+        pointer-events: none; /* Allows clicks to pass through the pseudo-element */
+        backdrop-filter: blur(1px); /* Adjust the blur strength as needed */
+    }
+}

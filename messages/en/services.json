@@ -1,0 +1,23 @@
+{
+  "Services": {
+    "title": "Pay anything. From anywhere. With any money",
+    "description": "Simplest way to keep control and pay for your utilities",
+    "headingButtonText": "Explore Services",
+    "ServiceAdvertisement": {
+      "title": "Empower Your Finances with Emoney",
+      "accessMultipleServicesDescription": "Access to over 100 service providers in different categories for seamless payments.",
+      "unlimitedCardsDescription": "Ability to add unlimited amount of  outer bank cards for flexible payment options.",
+      "unlimitedTemplatesDescription": "Create unlimited amount of  Templates to turn recurring payments into instant transactions.",
+      "accessMultipleServices": "100+ Services",
+      "unlimitedCards": "Unlimited Linked Cards",
+      "unlimitedTemplates": "Unlimited Templates"
+    },
+    "List": {
+      "title": "Simplify All Your Payments",
+      "description": "Pay Here Instantly - No Registration Needed, In- App or on the Website, It's Always Easy.",
+      "all": "All",
+      "inputPlaceholder": "What are you looking for?",
+      "loadServices": "Load more"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+export * as failedModel from './store'

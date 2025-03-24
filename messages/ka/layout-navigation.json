@@ -1,0 +1,26 @@
+{
+  "nav": {
+    "personal": "პერსონალური",
+    "cards": "ბარათები",
+    "payments": "გადახდები",
+    "gamblingWallet": "აზარტული საფულე",
+    "moneyTransfer": "ფულის გადარიცხვა",
+    "business": "ბიზნესი",
+    "deals": "შეთავაზებები",
+    "partners": "პარტნიორები",
+    "company": "კომპანია",
+    "aboutUs": "ჩვენს შესახებ",
+    "workingAtEmoney": "კარიერა eMoney-ში",
+    "newsRoom": "სიახლეები",
+    "latestNews": "უახლესი ამბები",
+    "signIn": "შესვლა",
+    "signUp": "რეგისტრაცია",
+    "ourTeam": "ჩვენი გუნდი",
+    "ourCulture": "ჩვენი კულტურა",
+    "media": "მედია",
+    "contactTerms": "კონტაქტი & პირობები",
+    "amlPolicy": "AML პოლიტიკა",
+    "feesAndLimits": "გადასახდები & ლიმიტები",
+    "legal": "იურიდიული"
+  }
+}
