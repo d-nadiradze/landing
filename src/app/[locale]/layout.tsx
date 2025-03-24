@@ -10,7 +10,7 @@ import 'swiper/css/pagination';
 import 'swiper/css/effect-coverflow';
 import {Footer, Navbar} from "@/shared/components";
 import {Metadata} from "next";
-
+import { Analytics } from "@vercel/analytics/react"
 export const metadata: Metadata = {
     title: "Emoney | Freedom for all your money",
     description: "ელექტრონული საფულე და ონლაინ გადახდები",
@@ -29,6 +29,7 @@ export default async function LocaleLayout({ children }: { children: React.React
         <html lang={locale}>
         <body>
         <NextIntlClientProvider locale={locale} messages={messages}>
+            <Analytics />
             <Navbar />
             {children}
             <Footer />
